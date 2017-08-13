@@ -42,5 +42,6 @@ Passer ensuite à la configuration.
 
 **Astuce 2: La connexion au compte sur le navigateur n'est pas nécessaire, le bot s'y connecte automatiquement.**
 
-## Note : Si vous utilisez le bot depuis le naviguateur, il se peut que le script affiche "Identifiants incorrects" ou n'affiche rien mais fonctionne correctement, ne rechargez pas la page, et vérifiez si le bot fonctionne.
+## Note : Ne mettez pas plus de 8 images dans le message à posté où le script anti-bot vous considérera comme tel.
+## Note 2 : Si vous utilisez le bot depuis le naviguateur, il se peut que le script affiche "Identifiants incorrects" ou n'affiche rien mais fonctionne correctement, ne rechargez pas la page, et vérifiez si le bot fonctionne.
 
