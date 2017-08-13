@@ -30,12 +30,12 @@ Passer ensuite à la configuration.
 
 ## Configuration
 1. Téléchargez le script PHP et placez-le dans un dossier
-1. Créez un fichier `compte.txt` et un fichier `message.txt`
-1. Editez le fichier `compte.txt` et placez les identifiants de votre COMPTE BOT comme ci-dessous :
+1. Editez le script `bot.php` et placez les identifiants de votre COMPTE BOT comme ci-dessous :
     ```
-    PSEUDO
-    MOT DE PASSE
+   $username = "PSEUDO";
+   $userpassword = "MOT DE PASSE";
     ```
+3. Créez un fichier `message.txt`
 4. Editez ensuite le fichier `message.txt` et placez y votre message :
     ```
     EXEMPLE DE MESSAGE
@@ -47,5 +47,5 @@ Passer ensuite à la configuration.
 
 **Astuce 2: La connexion au compte sur le navigateur n'est pas nécessaire, le bot s'y connecte automatiquement.**
 
-## Note : Il se peut que le script affiche "Identifiants incorrects" mais fonctionne correctement, ne rechargez pas la page, et vérifiez si le bot fonctionne.
+## Note : Il se peut que le script affiche "Identifiants incorrects" ou n'affiche rien mais fonctionne correctement, ne rechargez pas la page, et vérifiez si le bot fonctionne.
 
