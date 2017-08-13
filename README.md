@@ -1,5 +1,9 @@
 # Bot 18-25 PHP
 
+## Fonctionnalités
+* Envois un message sur les nouveaux topics en tant que first ou second.
+* Bypass le script anti-bot.
+
 ## Configuration
 1. Téléchargez le script PHP et placez-le dans un dossier
 1. Créez un fichier `compte.txt` et un fichier `message.txt`
