@@ -47,3 +47,5 @@ Passer ensuite à la configuration.
 
 **Astuce 2: La connexion au compte sur le navigateur n'est pas nécessaire, le bot s'y connecte automatiquement.**
 
+## Note : Il se peut que le script affiche "Identifiants incorrects" mais fonctionne correctement, ne rechargez pas la page, et vérifiez si le bot fonctionne.
+
