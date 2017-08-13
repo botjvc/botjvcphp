@@ -18,3 +18,10 @@
     :rire:
     ```
 4. Vous pouvez ensuite lancer le script PHP.
+
+**Astuce : Vous pouvez lancer plusieurs bot en créant un autre dossier et en répétant la manipulation.
+Astuce 2: La connexion au compte sur le navigateur n'est pas nécessaire, le bot s'y connecte automatiquement.**
+
+## Extensions PHP nécessaires :
+* PHP
+* PHP-CURL
