@@ -39,6 +39,11 @@ Passer ensuite à la configuration.
     ```
 6. Vous pouvez ensuite lancer le script PHP. Placez vous dans le dossier et écrivez dans la console `php bot.php`.
 
+### Pour Wamp (Windows)
+Suivez ce tuto jusqu'à la minute 2:10 
+[![wampwindows](https://img.youtube.com/vi/pAV9U5I8sfs/0.jpg)](https://www.youtube.com/watch?v=pAV9U5I8sfs)
+Placez vous ensuite dans le dossier où se trouve le script à l'aide de cmd. Ecrivez ensuite `php bot.php`.
+
 **Astuce : Vous pouvez lancer plusieurs bot en créant un autre dossier et en répétant la manipulation.**
 
 **Astuce 2: La connexion au compte sur le navigateur n'est pas nécessaire, le bot s'y connecte automatiquement.**
