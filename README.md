@@ -2,6 +2,7 @@
 
 ## Fonctionnalités
 * Envois un message en fonction du nombre de réponses
+* Déterrage de topics.
 * Bypass le script anti-bot.
 
 ## Extensions PHP nécessaires :
@@ -9,7 +10,7 @@
 * PHP-CURL
 
 ## Installation
-Pour utiliser ce script PHP, il vous faudra un serveur web. Le script peut être utilisé depuis un client web, mais il est recommandé de l'utiliser en version CLI.
+Ce script PHP ne fonctionne UNIQUEMENT en version CLI (Console).
 
 ### Linux (Serveur web local)
 Installer un serveur web à l'aide de Apache2/Nginx.
@@ -36,12 +37,11 @@ Passer ensuite à la configuration.
     EXEMPLE DE MESSAGE
     :rire:
     ```
-6. Vous pouvez ensuite lancer le script PHP.
+6. Vous pouvez ensuite lancer le script PHP. Placez vous dans le dossier et écrivez dans la console `php bot.php`.
 
 **Astuce : Vous pouvez lancer plusieurs bot en créant un autre dossier et en répétant la manipulation.**
 
 **Astuce 2: La connexion au compte sur le navigateur n'est pas nécessaire, le bot s'y connecte automatiquement.**
 
 ## Note : Ne mettez pas plus de 8 images dans le message à poster où le script anti-bot vous considérera comme tel.
-## Note 2 : Si vous utilisez le bot depuis le naviguateur, il se peut que le script affiche "Identifiants incorrects" ou n'affiche rien mais fonctionne correctement, ne rechargez pas la page, et vérifiez si le bot fonctionne.
 
