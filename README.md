@@ -3,6 +3,7 @@
 ## Fonctionnalités
 * Envois un message en fonction du nombre de réponses
 * Déterrage de topics.
+* Création de faux nouveaux topics
 * Bypass le script anti-bot.
 
 ## Extensions PHP nécessaires :
